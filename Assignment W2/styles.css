@@ -1,0 +1,8 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+h1 {
+  background: green;  /*changes background color to green*/
+	color: yellow; /*changes text color to green*/
+	text-shadow: 2px 2px 4px #000000; /*adds shadow to text*/
+}
